@@ -15,4 +15,4 @@ When complete each student will have:
 
 1. Built a simple Ruby-based 4X game server.
 2. Built a simple HTML-based client for their server.
-3. Used the Facebook API to make their game playable by their friends.
+3. Made their game playable by their friends via Facebook.
