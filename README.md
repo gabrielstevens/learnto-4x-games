@@ -5,7 +5,7 @@ About 4X Games
 --------------
 According to Wikipedia: *4X is a genre of strategy-based video and board games in which players control an empire and "eXplore, eXpand, eXploit, and eXterminate".*
 
-Popular games in this genre include the Sid Meiers "Civilization" franchise, and "Master of Orion".
+Popular games in this genre include titles such as the "Civilization" franchise, and "Master of Orion".
 
 About LearnTo: 4X Games
 -----------------------
